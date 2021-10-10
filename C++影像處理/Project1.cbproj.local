@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/24 16:22:06.000.819,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/02/24 16:22:06.000.663,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/25 10:20:33.000.502,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/25 10:20:34.000.018,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/25 10:22:27.000.358,C:\Users\andyg\Desktop\C++\7.1\Unit1.dfm=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/25 10:22:27.000.358,C:\Users\andyg\Desktop\C++\7.1\Unit1.cpp=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/25 10:22:27.000.358,C:\Users\andyg\Desktop\C++\7.1\Unit1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/08/25 10:22:28.000.953,C:\Users\andyg\Desktop\C++\7.1\Project1PCH1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/25 10:22:30.000.081,C:\Users\andyg\Desktop\C++\7.1\Project1.cbproj=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/08/25 10:26:27.000.429,=C:\Users\andyg\Desktop\C++\7.1\Unit2.cpp</Transaction>
+    <Transaction>2020/08/25 10:27:09.000.797,C:\Users\andyg\Desktop\C++\7.1\ImageProc.h=C:\Users\andyg\Desktop\C++\7.1\Unit2.h</Transaction>
+    <Transaction>2020/08/25 10:27:09.000.797,C:\Users\andyg\Desktop\C++\7.1\ImageProc.cpp=C:\Users\andyg\Desktop\C++\7.1\Unit2.cpp</Transaction>
+    <Transaction>2020/08/25 10:27:22.000.515,C:\Users\andyg\Desktop\C++\7.1\ImgProc.cpp=C:\Users\andyg\Desktop\C++\7.1\ImageProc.cpp</Transaction>
+    <Transaction>2020/08/25 10:27:22.000.515,C:\Users\andyg\Desktop\C++\7.1\ImgProc.h=C:\Users\andyg\Desktop\C++\7.1\ImageProc.h</Transaction>
+    <Transaction>2020/08/25 11:44:56.000.362,=C:\Users\andyg\Desktop\C++\7.1\Unit2.cpp</Transaction>
+    <Transaction>2020/08/25 11:45:12.000.814,C:\Users\andyg\Desktop\C++\7.1\12.cpp=C:\Users\andyg\Desktop\C++\7.1\ImgProc.cpp</Transaction>
+    <Transaction>2020/08/25 11:45:24.000.211,C:\Users\andyg\Desktop\C++\7.1\ImgProc.cpp=C:\Users\andyg\Desktop\C++\7.1\Unit2.cpp</Transaction>
+    <Transaction>2020/08/25 11:45:24.000.212,C:\Users\andyg\Desktop\C++\7.1\ImgProc.h=C:\Users\andyg\Desktop\C++\7.1\Unit2.h</Transaction>
+    <Transaction>2020/08/25 11:47:26.000.977,C:\Users\andyg\Desktop\C++\7.1\12.cpp=</Transaction>
+    <Transaction>2020/10/13 00:02:01.000.468,=C:\Users\andyg\Desktop\C++\7.1\CC.cpp</Transaction>
+    <Transaction>2020/10/13 00:02:01.000.498,=C:\Users\andyg\Desktop\C++\7.1\Morphology.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
